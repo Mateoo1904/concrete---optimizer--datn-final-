@@ -393,7 +393,7 @@ def create_s_parameter_comparison_chart(results: Dict) -> go.Figure:
 
 def main():
     st.set_page_config(page_title="Concrete Optimizer", layout="wide", page_icon="🗿")
-    st.title("🗿 Multi-Cement Concrete Mix Design Optimizer")
+    st.title("Mô hình thiết kế và tối ưu hóa cấp phối bê tông")
     st.caption("NSGA-II Multi-objective Optimization System")
     st.markdown("---")
     
